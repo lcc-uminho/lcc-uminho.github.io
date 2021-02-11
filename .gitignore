@@ -1,0 +1,13 @@
+node_modules
+.dendron.*
+build
+repos
+build
+dendron.code-snippets
+docs
+pods
+.dendron.port
+.dendron.version
+.dendron.ws
+dendron.code-workspace
+dendron.yml
